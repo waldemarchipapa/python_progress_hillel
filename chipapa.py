@@ -18,6 +18,7 @@
 first_number = int(input("Enter first number: "))
 second_number = int(input("Enter first number: "))
 result = first_number + second_number
-print(result)
+
+
 
 
